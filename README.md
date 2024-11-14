@@ -1,4 +1,4 @@
-Hi there, I'm Ashok Antham   
+Hi there, I'm Ashok Antham     
 
 
 A result-oriented professional with 2.5 years of experience in IT Industry experience With DevOps and Cloud Management as a DevOps engineer good in Git, GitHub, Maven, Jenkins, Ansible, Docker, Kubernetes, Ci/Cd and Jira along with AWS Platform.
