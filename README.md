@@ -1,3 +1,6 @@
+Hi there, I'm Ashok Antham   
+
+
 A result-oriented professional with 2.5 years of experience in IT Industry experience With DevOps and Cloud Management as a DevOps engineer good in Git, GitHub, Maven, Jenkins, Ansible, Docker, Kubernetes, Ci/Cd and Jira along with AWS Platform.
 
 
@@ -27,15 +30,3 @@ Java
 Languages and Tools:
 aws ## Containerisation tools ## Infrastructure management tools
 
-Programming Language- 👋 Hi, I’m @anthamashok1999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-anthamashok1999/anthamashok1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
