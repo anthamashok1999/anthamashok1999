@@ -9,15 +9,26 @@ DevOps
 
 
 Cloud (AWS)
+
+
 Git/Github
+
 Containerization (Docker, DockerHub)
+
 Orchestration (Jenkins)
+
 Configuration (Ansible)
+
 Monitoring (AWS CloudWatch, Nagios)
+
 Python / Shell Scripting
+
 Kubernetes Administration
+
 Open Source
+
 Infrastructure as a Code (IaaC)
+
 ✈️ Get in touch
 Connect with me:
 https://www.linkedin.com/in/antham-ashok/
